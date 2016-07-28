@@ -1,0 +1,17 @@
+{
+  "name": "x509-demo-device",
+  "version": "0.0.1",
+  "description": "Demo of the x509 authentication feature of the Azure IoT SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "dependencies": {
+    "azure-iot-device": "^1.0.10",
+    "azure-iot-device-amqp": "^1.0.10",
+    "azure-iot-device-http": "^1.0.11",
+    "azure-iot-device-mqtt": "^1.0.10"
+  }
+}

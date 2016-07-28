@@ -1,0 +1,14 @@
+{
+  "name": "x509-demo-registry",
+  "version": "0.0.1",
+  "description": "Script that inserts a device in the registry for the x509 demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "dependencies": {
+    "azure-iothub": "^1.0.12"
+  }
+}
